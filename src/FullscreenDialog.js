@@ -91,11 +91,7 @@ FullscreenDialog.propTypes = {
   children: PropTypes.node,
   /**
    * https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog.gitThis is hidden if `onRequestClose` is not set.
-   */https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog.git
-  clohttps://github.com/TeamWertarbyte/material-ui-fullscreen-dialog.git
-  /**https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog.git
-   * https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog.githildren container.
-   */https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog.git
+   */
   containerStyle: PropTypes.object,
   /**
    *  Toggles the immersive mode. If set to `true`, the app bar has a semi-transparent gradient and overlays the content.

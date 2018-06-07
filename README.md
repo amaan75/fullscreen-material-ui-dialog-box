@@ -1,13 +1,9 @@
 # material-ui-fullscreen-dialog
 This project provides a [fullscreen dialog][dialogspec] for [Material-UI][mui].
 
-![Demo](demo.gif)
-
-If you want to try the component yourself instead of watching a gif, head over to [the storybook][gh-pages] for a live demo!
-
 ## Installation
 ```shell
-npm i --save material-ui-fullscreen-dialog
+npm i fullscreen-material-ui-dialog-box
 ```
 
 ## Usage
@@ -55,5 +51,4 @@ The files included in this repository are licensed under the MIT license.
 
 [dialogspec]: https://material.io/guidelines/components/dialogs.html#dialogs-specs
 [mui]: http://www.material-ui.com/#/
-[gh-pages]: https://teamwertarbyte.github.io/material-ui-fullscreen-dialog/
 [mui-dialog]: https://github.com/callemall/material-ui/blob/master/src/Dialog/Dialog.js
