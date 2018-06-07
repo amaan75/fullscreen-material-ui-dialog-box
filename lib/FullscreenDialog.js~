@@ -121,7 +121,7 @@ FullscreenDialog.propTypes = {
    */
   children: _propTypes2.default.node,
   /**
-   * This is hidden if `onRequestClose` is not set.
+   * https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog.gitThis is hidden if `onRequestClose` is not set.
    */
   containerStyle: _propTypes2.default.object,
   /**

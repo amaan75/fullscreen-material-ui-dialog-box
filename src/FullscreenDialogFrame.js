@@ -49,8 +49,8 @@ export default function FullscreenDialogFrame ({ children, open, style }) {
     >
       {(state) => (
         <div style={{
-          ...style,
           ...styles.root,
+          ...style,
           ...styles.transition[state]
         }}>
           {children}

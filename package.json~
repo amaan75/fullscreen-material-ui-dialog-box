@@ -1,6 +1,6 @@
 {
   "name": "fullscreen-material-ui-dialog-box",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "A fullscreen dialog for Material-UI.",
   "main": "lib/FullscreenDialog.js",
   "scripts": {
